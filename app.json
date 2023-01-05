@@ -1,5 +1,5 @@
 {
-    "name": "TrickyAbhi-Bot",
+    "name": "RSPH VPN",
     "description": "Telegram group management bot.",
     "keywords": [
        "telegram",
@@ -29,7 +29,7 @@
     "TOKEN": {
        "description": "Your bot token. Get one from @BotFather duh",
        "required": true,
-       "value": ""
+       "value": "5581181552:AAEWPiZUYJSirrkRkt-CRlF0jSaXz5RGEtY"
     },
     "API_ID": {
        "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
@@ -49,17 +49,17 @@
     "OWNER_ID": {
        "description": "Your user ID as an integer.",
        "required": true,
-       "value": "5124507794"
+       "value": "5675607923"
     },
 
     "BOT_NAME": {
        "description": "Insert below your bot, it will appear everywhere",
        "required": true,
-       "value": ""
+       "value": "RSPHVPN_bot"
     },
     "OWNER_USERNAME": {
        "description": "Your username without the @",
-       "value": "ABHIISH3K_xD"
+       "value": "@RSDevz"
     },
     "SUPPORT_CHAT": {
        "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
@@ -74,17 +74,17 @@
     "DEV_USERS": {
        "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
        "required": false,
-       "value": "5124507794 5198403647"
+       "value": "5675607923"
     },
     "INSPECTOR": {
        "description": "A space separated list of user IDs who you want to assign as inspector users.",
        "required": false,
-       "value": "5124507794 5198403647"
+       "value": "5675607923"
     },
     "REQUESTER": {
        "description": "A space separated list of user IDs who you wanna assign as requester(gban perms only).",
        "required": false,
-       "value": "5124507794 5198403647"
+       "value": "5675607923"
     },
     "ENV": {
        "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
